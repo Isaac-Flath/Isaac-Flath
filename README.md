@@ -1,23 +1,28 @@
 ### Hi there 👋
-<!--
-Things I have worked on
 
-+ Work on creating [chat bot functionality](https://www.novetta.com/2021/06/chatbots/) that can be used for business applications based on semantic similarity.  This included a full human in the loop process that allows to get going quickly with minimal data and empowers the domain experts to improve the performance of the solution.
-+ Worked in data science and analytics in a variety of problem spaces including marketing, retention, and finance.
-+ Long term member of fastai community and have contributed to various things in various ways including helping newcomers to machine learning, contributing to open source libraries, and collaborating with groups
+Data Scientist with a varied background that likes doing varied things.
+
+Here's brief non-inclusive list of things I have done/used for stuff in no particular order.  Feel free to connect if you want to chat
 
 
+#### Core
+  + Deep Learning, Tree Ensembles (Random Forest, XG Boost, etc), Clustering (K-means, heirarchical, etc.), collaborative filtering
+  + Chat bots, customer churn prediction, customer propensity prediction, image classification/regression, next best action selection (ie what web content do we serve to user x when they log in), customer segmentation, reccomender systems, marketing attribution, finance for stock prediction
+  + Developed data apps using shiny, dash, streamlit, wordpress
+  + Long term member of of fastai community
+      + OSS contributions to various projects
+      + Answering questions and helping other community members
+  
+#### Other Supporting Stuff
+  + Database like stuff: postgres, mongodb, hadoop/hive, redshift, snowflake
+  + Automation Tooling: Github Actions & Various AWS services
+  + AWS Services:  Amplify, Lambda, DynamoDB, Redshift, Sagemaker, ECR, ECS, Fargate, API Gateway, Athena, Cloud9, S3, Cloudwatch, EC2, IAM, RDS, Secrets Manager, SES, Workspaces
+  + Programming Languages: Python, R, Ocaml, APL, Javascript, HTML, CSS
+  + Built various websites and web apps for clients using html/css/js with serverless nodejs and python backend.  Also have used builders such as square, wordpress and wix to some degree.
+  + docker
+  + power bi/tableau/qlikview
+  
+#### My varied career progression 
 
-**Isaac-Flath/Isaac-Flath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assembly line worker -> Assembly line lead -> assembly line optimization -> business process engineering -> product management -> Data Analyst -> Dynamics CRM developer -> accounting -> full-time ballrom dance instruction -> data scientist -> product owner -> maachine learning researcher -> data scientist
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
