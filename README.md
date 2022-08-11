@@ -1,6 +1,13 @@
 ### Hi there 👋
-
 <!--
+Things I have worked on
+
++ Work on creating [chat bot functionality](https://www.novetta.com/2021/06/chatbots/) that can be used for business applications based on semantic similarity.  This included a full human in the loop process that allows to get going quickly with minimal data and empowers the domain experts to improve the performance of the solution.
++ Worked in data science and analytics in a variety of problem spaces including marketing, retention, and finance.
++ Long term member of fastai community and have contributed to various things in various ways including helping newcomers to machine learning, contributing to open source libraries, and collaborating with groups
+
+
+
 **Isaac-Flath/Isaac-Flath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
