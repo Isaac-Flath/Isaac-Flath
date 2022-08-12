@@ -2,7 +2,7 @@
 
 I'm a data scientist with a varied background that likes doing varied things.  My journey has been varied and unique.  
 
-The breadth of roles I have done gives me a unique perspective, experience learning new things on the fly under pressure, and a wide range of skills that prove useful in all sorts of surprising ways.
+The breadth of roles I have done gave me lots of practice learning new things on the fly and so I have become very good at it.  It's also given me a wide range of skills that prove useful in all sorts of surprising ways.
 
 ## My professional journey 🚀 
 
