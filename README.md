@@ -8,3 +8,4 @@ The breadth of roles I have done gave me lots of practice learning new things on
 
 **assembly line worker ➢ assembly line management ➢ assembly line efficiency optimization ➢  business process engineering ➢  product management ➢  Data Analyst ➢  dynamics CRM developer ➢  accounting ➢  call center ➢  full-time ballrom dance teacher ➢  data scientist ➢  product owner ➢  machine learning researcher ➢  cloud developer ➢  data scientist**
 
+<a rel="me" href="https://sigmoid.social/@isaac_flath">Mastodon</a>
