@@ -1,5 +1,7 @@
 # Hi there 👋
 
-I'm a data scientist and data engineer with a varied background that likes doing varied things.  The breadth of roles I have done gave me lots of practice learning new things on the fly and so I have become very good at it.  It's also given me a wide range of skills that prove useful in all sorts of surprising ways.
+I'm a data scientist and data engineer.  I am currently spending a lot of time building open source datasets.
 
-I am currently spending a lot of time building open source datasets.
+I believe that spending a little time close to every day over a long period of time is extremely powerful and underated.  I track 3 - 5 things to do daily at any given point in time, here's the current ones!
+
+![](2024.png)
