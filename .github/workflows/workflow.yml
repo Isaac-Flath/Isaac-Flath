@@ -29,6 +29,6 @@ jobs:
           git config --global user.name "isaac-flath"
           git config --global user.email "isaac.flath@gmail.com"
 
-          git add -A
+          git add 2024.png
           git commit -m "update daily tracker image"
           git push
