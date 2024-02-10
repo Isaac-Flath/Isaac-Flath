@@ -6,9 +6,10 @@ df = pd.read_csv('daily_tracker.csv')
 df.Day = pd.to_datetime(df.Day)
 
 df = df.set_index('Day')
-fig,ax = plt.subplots(len(df.columns),1,figsize = (10,8))
+fig,ax = plt.subplots(2,2,figsize = (9,2))
 for i,col in enumerate(df.columns):
-    calplot.yearplot(df[col], cmap='PiYG', ax = ax[i], dropzero= True) #, 
-    ax[i].set_title(f"Daily {col} Tracker")
+    monthlabels = ['J','F','M','A','May']
+    calplot.yearplot(df[col], cmap='PiYG', ax = ax[i//2][i%2], dropzero= True, monthticks=False, dayticks=False) #, 
+    ax[i//2][i%2].set_title(f"{col} Daily Tracker")
 
 fig.savefig('2024.png')
