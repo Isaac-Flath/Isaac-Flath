@@ -10,6 +10,6 @@
 
 ## Consistency
 
-I believe that spending a little time close to every day over a long period of time is extremely powerful and underated, both for professional and personal growth.  I track 3 - 5 things to do daily at any given point in time, here's the current ones:
+Spending a little time close to every day over a long period of time is extremely powerful and underated for personal growth.  I track 3 - 5 things I am working on daily at any given point in time, here's the current ones:
 
 ![](2024.png)
