@@ -3,13 +3,16 @@
 **Data scientist and data engineer**  
 
 Currently Working on:
+
     + Building Open Source Datasets 
+    
         + [Python Data Pipelines](https://github.com/codenym/datapipelines):  The repo where the main data pipelines will live built using dagster and an s3 data lake
         + [ezduckdb python library](https://codenym.github.io/ezduckdb/):  Python library to assist with working with s3 data lake using duckdb.  Includes things like db connection management and querying and sql templating.
         + [GoDuck CLI tool written in Go](https://github.com/Codenym/GoDuck):  CLI useful for working with datalake.  Does things like convert templated sql files to runnable sql and create duckdb databases with data in datalake (either as reference or as table).
     + [Data Structures and Algorithms](https://isaac-flath.github.io/DataStructuresAlgorithms/):  I am working through the [neetcode roadmap](neetcode.io/roadmap)
 
 Previous Stuff:
+
     + **Dance Ready Score Web App:** Developed web application for physical therapists to use to conduct standardized testing for dancers
     + [Practical AI driven Chatbots support](https://web.archive.org/web/20221114235423/https://www.novetta.com/2021/06/chatbots/)
     + GAN blog posts
