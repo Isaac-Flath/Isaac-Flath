@@ -11,6 +11,6 @@
 
 ## Consistency
 
-Spending a little time veru consistently (as close to every day as feasible) over a long period of time (> 1 yr) is extremely powerful and underated for personal growth.  I track 3 - 5 things I am working on daily at any given point in time, here's the current ones:
+Spending a little time very consistently (as close to every day as feasible) over a long period of time (> 1 yr) is extremely powerful and underated for personal growth.  I track 3 - 5 things I am working on daily at any given point in time, here's the current ones:
 
 ![](2024.png)
