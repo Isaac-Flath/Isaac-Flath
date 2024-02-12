@@ -11,6 +11,6 @@ if __name__ == '__main__':
     for i,col in enumerate(df.columns):
         monthlabels = ['J','F','M','A','May']
         calplot.yearplot(df[col], cmap='PiYG', ax = ax[i//2][i%2], dropzero= True, monthticks=False, dayticks=False) #, 
-        ax[i//2][i%2].set_title(f"{col} Daily Tracker")
+        ax[i//2][i%2].set_title(f"{col}")
 
     fig.savefig('2024.png')
