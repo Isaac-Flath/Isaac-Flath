@@ -2,7 +2,7 @@
 
 ## Currently Working on:
 
-+ Head of Data Science Consulting at Centriam
++ **Head of Data Science Consulting at Centriam**
 + **Building Open Source Datasets:**
     + [Python Data Pipelines](https://github.com/codenym/datapipelines):  The repo where the main data pipelines will live built using dagster and an s3 data lake
     + [ezduckdb python library](https://codenym.github.io/ezduckdb/):  Python library to assist with working with s3 data lake using duckdb.  Includes things like db connection management and querying and sql templating.
