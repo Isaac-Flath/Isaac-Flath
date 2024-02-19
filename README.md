@@ -13,6 +13,8 @@
 
 Spending a little time very consistently (as close to every day as feasible) over a long period of time (> 1 yr) is extremely powerful and underated for personal growth.  I track 3 - 5 things I am working on daily at any given point in time, here's the daily tracking for the current skills I am doing this for:
 
+>Note: I do not think you need to (or even should) track all these things you do.  If you want to create a new habit, it's not neccesarily beneficial to track it daily (because this can mean you now have to create the habit of doing the thing AND the habit of tracking the thing).
+
 ### Daily 2024 Calendar Trackers
 
 ![](2024.png)
