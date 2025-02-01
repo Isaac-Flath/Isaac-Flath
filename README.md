@@ -1,4 +1,4 @@
-# Data scientist and data engineer
+# Tech Generalist
 
 ## Currently Working on:
 
