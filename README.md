@@ -7,3 +7,4 @@
 + [fh-frankenui](https://github.com/isaac-Flath/fh-frankenui): An work-in-progress and unreleased wrapper of [Franken UI](https://franken-ui.dev/) to be used with FastHTML.
 + [Virgil](https://tryvirgil.com/): A law firm
 + [SolveIt](https://solveit.fast.ai/)
++ Plash: How mysterious
