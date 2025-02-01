@@ -7,4 +7,4 @@
 + [MonsterUI](Monsterui.answer.ai): UI library for web app development using FastHTML
 + [Virgil](https://tryvirgil.com/): A law firm
 + [SolveIt](https://solveit.fast.ai/)
-+ Plash: How mysterious
++ Plash: No info?  How mysterious...
