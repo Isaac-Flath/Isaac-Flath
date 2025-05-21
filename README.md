@@ -3,7 +3,8 @@
 AI & Tech Generalist | Search & RAG Specialist | Technical Consultant
 
 Consulting Page: https://kentro.tech/
-Tehcnical Blog: https://isaacflath.com/blog/
+
+Technical Blog: https://isaacflath.com/blog/
 
 # Current Projects
 
