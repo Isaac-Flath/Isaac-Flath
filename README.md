@@ -9,6 +9,5 @@ Technical Blog: https://isaacflath.com/blog/
 # Current Projects
 
 - 🔍 Building search and retrieval systems for several clients
-- 🎓 Building a RAG for backend developers course for [boot.dev](https://boot.dev?promo=ISAAC) \*[Affiliate Link]\*
 - 🤖 Developing AI solutions and predictive models
 - 💡 Consulting on AI implementation and search architecture
